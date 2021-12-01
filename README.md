@@ -122,11 +122,13 @@
 
             어떤 방법으로 하는 것을 지향하시는지 모르겠어서 두가지 방법 다 첨부했습니다.
 
+
 -----------------
 
 # # 04
 
       • $ vimgolf put 9v0060da5177000000000209
+      
 -----------      
       
 ##### • Start
@@ -157,6 +159,47 @@
 
 
 ![4_k](https://user-images.githubusercontent.com/94774284/144276667-750f8dae-917c-4a8e-a301-a49f22b4fba7.PNG)
+
+
+-----------------
+
+
+# # 05
+
+
+      • $ vimgolf put 6013804df3308e0009368f1c
+      
+      
+-----------      
+      
+##### • Start
+
+
+![5_start](https://user-images.githubusercontent.com/94774284/144277289-e83cae2b-d2dc-44c9-be30-3a39300f1db1.PNG)
+      
+      
+-------------     
+     
+##### • End
+
+
+![5_end](https://user-images.githubusercontent.com/94774284/144277307-a2030a1b-ed56-4715-9311-d5c2360af084.PNG)
+
+
+---------------
+
+### # *풀이 과정*
+
+
+![5번](https://user-images.githubusercontent.com/94774284/144277328-a067e54b-ce58-4d77-93ec-51d548e49a03.gif)
+   
+
+-------------
+
+### # Keystroke
+
+
+![5_k](https://user-images.githubusercontent.com/94774284/144277353-37cd8886-3528-4f7e-bcbc-9ec209300ad6.PNG)
 
 
 -----------------
