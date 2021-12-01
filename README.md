@@ -184,7 +184,7 @@
       
 -------------     
      
-##### • End
+### • End
 
 
 ![5_end](https://user-images.githubusercontent.com/94774284/144277307-a2030a1b-ed56-4715-9311-d5c2360af084.PNG)
@@ -192,7 +192,7 @@
 
 ---------------
 
-### # *풀이 과정*
+## # *풀이 과정*
 
 
 ![5번](https://user-images.githubusercontent.com/94774284/144277328-a067e54b-ce58-4d77-93ec-51d548e49a03.gif)
