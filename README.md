@@ -29,14 +29,13 @@
 
 ### # Keystroke
 
-###### Here are your keystrokes:
+![1_k](https://user-images.githubusercontent.com/94774284/144271709-bfb6cd27-fe4d-4dc4-b8b8-92c04cde5810.PNG)
 
-###### GWi"<End>"<Esc>ZZ
-      
-###### Success! Your output matches.
-      
-###### Your score:
-      
-###### 9
+
+
+
+
+
+
 
 
