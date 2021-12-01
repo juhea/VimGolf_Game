@@ -88,7 +88,7 @@
       
 -----------      
       
-##### • Start
+### • Start
 
 
 ![3_start](https://user-images.githubusercontent.com/94774284/144273438-06ba15b1-c879-4afb-9faa-1cfd09286568.PNG)
@@ -96,7 +96,7 @@
            
 -------------     
      
-##### • End
+### • End
 
 
 ![3_end](https://user-images.githubusercontent.com/94774284/144273457-808bbe92-bcb3-4fee-b1f6-5e5346e9a01b.PNG)
@@ -104,7 +104,7 @@
 
 ---------------
 
-### # *풀이 과정*
+## # *풀이 과정*
 
      
 ![3번](https://user-images.githubusercontent.com/94774284/144273472-3b249438-95c3-4855-ab58-cd56a42b1881.gif)
@@ -112,18 +112,18 @@
 
 -------------
 
-### # Keystroke
+## # Keystroke
 
-- 1번 방법
+#### • 1번 방법
 
 ![3_k1](https://user-images.githubusercontent.com/94774284/144275169-31caf170-db82-49ca-a545-cdcea68a314e.PNG)
 
-- 2번 방법
+#### • 2번 방법
 
 ![3_k2](https://user-images.githubusercontent.com/94774284/144275317-eb7b0842-35bb-405b-b68d-0260a5336044.PNG)
 
 
-            어떤 방법으로 하는 것을 지향하시는지 모르겠어서 두가지 방법 다 첨부했습니다.
+           • 어떤 방법으로 하는 것을 지향하시는지 모르겠어서 두가지 방법 다 첨부했습니다.
 
 
 ------------------
