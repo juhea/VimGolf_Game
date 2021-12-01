@@ -7,10 +7,10 @@
       
 ##### • Start
 
+
 ![1_start](https://user-images.githubusercontent.com/94774284/144275446-4566df37-a03f-4db7-99a5-8366ae685493.PNG)
 
-     
-     
+          
 -------------     
      
 ##### • End
@@ -120,11 +120,45 @@
 ![3_k2](https://user-images.githubusercontent.com/94774284/144275317-eb7b0842-35bb-405b-b68d-0260a5336044.PNG)
 
 
-           어떤 방법으로 하는 것을 지향하시는지 모르겠어서 두가지 방법 다 첨부했습니다.
-
+            어떤 방법으로 하는 것을 지향하시는지 모르겠어서 두가지 방법 다 첨부했습니다.
 
 -----------------
 
+# # 04
 
+      • $ vimgolf put 9v0060da5177000000000209
+-----------      
+      
+##### • Start
+
+
+![4_start](https://user-images.githubusercontent.com/94774284/144276221-1c5588ad-8599-41fe-b69c-7d42915a0a1f.PNG)
+
+         
+-------------     
+     
+##### • End
+
+
+![4_end](https://user-images.githubusercontent.com/94774284/144276238-61b24aa3-6330-4d4b-a0f9-9b7ec9829e58.PNG)
+
+
+---------------
+
+### # *풀이 과정*
+
+     
+![4번](https://user-images.githubusercontent.com/94774284/144276288-d441245d-2be1-4f03-a16c-135201d8da57.gif)
+
+
+-------------
+
+### # Keystroke
+
+
+![4_k](https://user-images.githubusercontent.com/94774284/144276667-750f8dae-917c-4a8e-a301-a49f22b4fba7.PNG)
+
+
+-----------------
 
 
