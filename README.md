@@ -135,7 +135,7 @@
       
 -----------      
       
-##### • Start
+### • Start
 
 
 ![4_start](https://user-images.githubusercontent.com/94774284/144276221-1c5588ad-8599-41fe-b69c-7d42915a0a1f.PNG)
@@ -143,7 +143,7 @@
          
 -------------     
      
-##### • End
+### • End
 
 
 ![4_end](https://user-images.githubusercontent.com/94774284/144276238-61b24aa3-6330-4d4b-a0f9-9b7ec9829e58.PNG)
@@ -151,7 +151,7 @@
 
 ---------------
 
-### # *풀이 과정*
+## # *풀이 과정*
 
      
 ![4번](https://user-images.githubusercontent.com/94774284/144276288-d441245d-2be1-4f03-a16c-135201d8da57.gif)
@@ -159,7 +159,7 @@
 
 -------------
 
-### # Keystroke
+## # Keystroke
 
 
 ![4_k](https://user-images.githubusercontent.com/94774284/144276667-750f8dae-917c-4a8e-a301-a49f22b4fba7.PNG)
@@ -176,7 +176,7 @@
       
 -----------      
       
-##### • Start
+### • Start
 
 
 ![5_start](https://user-images.githubusercontent.com/94774284/144277289-e83cae2b-d2dc-44c9-be30-3a39300f1db1.PNG)
